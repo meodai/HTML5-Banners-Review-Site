@@ -36,7 +36,7 @@ body {
     font-size: 1em;
     line-height: 1.4;
     overflow-x: hidden;
-    background: #444;
+    background: #fff;
     font-family: 'Open Sans Condensed', sans-serif;
 
     @include fluid-type(font-size, 320px, 1366px, 14px, 18px);
