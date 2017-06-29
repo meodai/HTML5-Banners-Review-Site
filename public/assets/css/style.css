@@ -406,7 +406,7 @@ body {
   font-size: 1em;
   line-height: 1.4;
   overflow-x: hidden;
-  background: #444;
+  background: #fff;
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -535,6 +535,11 @@ a:hover {
   line-height: 1.25;
   color: #fff;
   text-shadow: 1px 1px 0 rgba(33, 33, 33, 0.5);
+}
+
+.site-header .logo svg {
+  width: 200px;
+  height: auto;
 }
 
 .site-header .logo-broco {
